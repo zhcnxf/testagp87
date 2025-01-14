@@ -1,0 +1,4 @@
+<resources>
+  <!-- Base application theme. -->
+  <style name="Theme.Testagp87" parent="android:Theme.DeviceDefault.Light" />
+</resources>
